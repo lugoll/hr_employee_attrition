@@ -1,0 +1,3 @@
+# HR Employee Attrition
+
+A data driven survey to the topic why employees quit....
